@@ -6,7 +6,7 @@ The training institute emphasizes integration of statistical analysis into well-
 
 The course weaves together several core themes via a mixture of lectures/instruction, discussions, and exercises; these themes are further reinforced -- and injected into the real-time synthetic scientific research process -- through daily work on group synthesis projects.
 
-Core themes include:
+## Core themes: 
 
 * Collaboration modes and methods
 * Data management, preservation, and sharing
@@ -23,6 +23,10 @@ In addition, throughout the course we maintain a strong emphasis on computing fu
 * Demystification of various aspects of modern computers that have bearing on effective science
 * Discussion of emerging cyberinfrastructure trends that support open, networked, reproducible science, and
 
-Other technical topics
+## Other technical topics
 Instructors advise participants in small-group synthesis projects, and also lead daily hands-on exercises that cover a breadth of topics.   Learn more about the 2013 summer institute, it's participants, instructors,  course materials, and group projects.
 
+## Venues
+Training could occur simultaneously at two locations, one at NCEAS on the west coast and one at RENCI on the East Coast. We would need to work out time zone issues.  
+* NCEAS
+* RENCI
