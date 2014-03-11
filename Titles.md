@@ -9,5 +9,5 @@
 * Reproducible Science
 * Open (something)
     * Laying the foundations for robust, reproducible science
-* Open Science
+* Open Science for Synthesis
     * Software Skills for Early Career Scientists
