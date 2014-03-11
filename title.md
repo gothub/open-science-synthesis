@@ -1,1 +1,1 @@
-Synthesis Science Training Institute
+Synthesis Science Training
