@@ -6,3 +6,5 @@
 * Open Source Science
     * Skill Building for Early Career Scientists
 * Reproducible Science
+* Open (something)
+    * Laying the foundations for robust, reproducible science
