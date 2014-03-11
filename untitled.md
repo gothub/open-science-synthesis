@@ -17,7 +17,7 @@ In addition, throughout the course we maintain a strong emphasis on computing fu
 
 * Instruction from the ground up in many aspects of R (which will serve as the primary platform for data manipulation, analysis, and visualization)
 * A survey of general programming constructs, paradigms, and best practices
-* Exposure to the Linux/UNIX commandline environment and useful commandline tools
+* Exposure to the Linux/UNIX command line environment and useful command line tools
 * Demystification of various aspects of modern computers that have bearing on effective science
 * Discussion of emerging cyberinfrastructure trends that support open, networked, reproducible science, and
 
