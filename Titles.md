@@ -3,3 +3,6 @@
 * Software Skills for Science Synthesis
 * Software Skills for Scientific Collaboration
 * Software Skills for Scientists
+* Open Source Science
+    * Skill Building for Early Career Scientists
+* Reproducible Science
