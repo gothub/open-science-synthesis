@@ -1,4 +1,5 @@
 * Science Software for Synthesis
+    * Open Software Skills for Early Career Scientists
 * Software Skills for Earth Science Synthesis
 * Software Skills for Science Synthesis
 * Software Skills for Scientific Collaboration
