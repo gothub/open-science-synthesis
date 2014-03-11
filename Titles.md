@@ -8,3 +8,5 @@
 * Reproducible Science
 * Open (something)
     * Laying the foundations for robust, reproducible science
+* Open Science
+    * Software Skills for Early Career Scientists
