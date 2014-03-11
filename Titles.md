@@ -10,4 +10,4 @@
 * Open (something)
     * Laying the foundations for robust, reproducible science
 * Open Science for Synthesis
-    * Software Skills for Early Career Scientists
+    * Software Skills {Training} for Early Career Scientists
