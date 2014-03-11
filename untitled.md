@@ -26,5 +26,6 @@ Instructors advise participants in small-group synthesis projects, and also lead
 
 ## Venues
 Training could occur simultaneously at two locations, one at NCEAS on the west coast and one at RENCI on the East Coast. We would need to work out time zone issues.  
+
 * NCEAS
 * RENCI
