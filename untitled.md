@@ -1,5 +1,3 @@
-# Synthesis Science: A Training Institute
-
 A three-week intensive training workshop in analysis and synthesis for early-career researchers. Participants receive hands-on guided experience using best practices in the technical aspects that underlie successful synthesis – from data discovery and integration to analysis and visualization, and special techniques for collaborative scientific research.
 
 The training institute emphasizes integration of statistical analysis into well-documented workflows through the use of open-source, community-supported programming languages that are well-suited for rapid yet robust implementation of scientific data analyses. We explore new approaches to open, reproducible science that can support environmental synthesis.
