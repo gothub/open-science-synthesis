@@ -8,8 +8,6 @@ UC Santa Barbara’s National Center for Ecological Analysis and Synthesis (NCEA
  
 Participants receive hands-on guided experience using best practices in the technical aspects that underlie successful open science and synthesis – from data discovery and integration to analysis and visualization, and special techniques for collaborative scientific research, including virtual collaboration over the Internet. A dynamic group of instructors have been assembled to provide for a mixture of instructive lectures, discussions forums, exercises, and real world application of skills to synthesis projects.
 
-## Core themes: 
-
 ## Topics
 
 This Open Science training revolves around scientific computing and scientific software for reproducible science. We will emphasize the integration of statistical analysis into well-documented workflows through the use of open-source, community-supported programming languages. And, we will promote skills for rapid and robust implementation of open source scientific software. These approaches will be explored and applied to ecological, environmental, evolutionary, Earth and marine science synthesis.
