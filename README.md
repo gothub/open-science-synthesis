@@ -1,4 +1,4 @@
-# Open Science for Synthesis: A Training Institute
+# Open Science for Synthesis
 
 [OSS Web Site](https://www.nceas.ucsb.edu/OSS)
 
